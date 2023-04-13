@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2nuZu83bMAFxtZp9+HD4m6bSHB/6exIIgvVpo2Wy6OJdVXquashFybvNmEX8PD+w7mZzr93UqeZRl3kGsttIRQ==",
+  "success": true,
+  "projectFilePath": "D:\\Універ\\OOp (1)\\Lab-3\\Lavb3\\BitMapReader\\BitMapReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ЛОХ\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ЛОХ\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ЛОХ\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ЛОХ\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
